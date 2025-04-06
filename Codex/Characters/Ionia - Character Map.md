@@ -1,4 +1,4 @@
-# Ionia Hawthorne - Character Map
+# Ionia Hawthorne
 
 **Age**: 10 years old  
 **Race:** Human  

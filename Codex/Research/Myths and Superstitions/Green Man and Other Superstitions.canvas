@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8d782f66b108beec","type":"file","file":"Codex/Research/Myths and Superstitions/Images/Pasted image 20250330190959.png","x":0,"y":0,"width":310,"height":400},
+		{"id":"e0791b8ae3d66bed","type":"file","file":"Codex/Research/Myths and Superstitions/Images/Pasted image 20250330191022.png","x":-340,"y":0,"width":300,"height":400},
+		{"id":"c56f5b6170b04ffb","type":"file","file":"Codex/Research/Myths and Superstitions/Images/Pasted image 20250330191039.png","x":0,"y":-440,"width":400,"height":400},
+		{"id":"47cb10e7df1c3743","type":"file","file":"Codex/Research/Myths and Superstitions/Images/Pasted image 20250330191218.png","x":340,"y":0,"width":300,"height":400},
+		{"id":"012ae9ed70eb4448","type":"file","file":"Codex/Research/Myths and Superstitions/Images/Pasted image 20250330191339.png","x":-440,"y":-391,"width":399,"height":351},
+		{"id":"5b0a8c521f7400be","type":"file","file":"Codex/Research/Myths and Superstitions/Images/Pasted image 20250330191426.png","x":440,"y":-440,"width":271,"height":400}
+	],
+	"edges":[]
+}
