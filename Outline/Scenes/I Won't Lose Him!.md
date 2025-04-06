@@ -1,0 +1,1 @@
+Unable to sleep, Ionia decides she must save her father and leaves the safety of *the* sanctuary.

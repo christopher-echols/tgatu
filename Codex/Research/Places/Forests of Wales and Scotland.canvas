@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"dbcbef4be60bfaf2","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330184719.png","x":200,"y":108,"width":400,"height":216},
+		{"id":"2151d7e151d308fe","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330184754.png","x":-220,"y":-180,"width":400,"height":266},
+		{"id":"6aba4d391d9baf15","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330184844.png","x":-220,"y":104,"width":400,"height":225},
+		{"id":"a7c66f4606333d35","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330184911.png","x":200,"y":-214,"width":400,"height":300},
+		{"id":"635eff9d5a356370","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330185100.png","x":60,"y":360,"width":400,"height":300},
+		{"id":"14c946f40a843ab3","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330185012.png","x":-220,"y":360,"width":266,"height":400},
+		{"id":"ebb5db9c72f5b761","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330185558.png","x":480,"y":360,"width":400,"height":300},
+		{"id":"d485f52fdc6d4f2f","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330185713.png","x":620,"y":24,"width":400,"height":300},
+		{"id":"e6ea1bda66c37144","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330185642.png","x":620,"y":-214,"width":400,"height":225},
+		{"id":"07cb30aa5f744186","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330185755.png","x":900,"y":360,"width":265,"height":400},
+		{"id":"8f9de5c6ee85e5ce","type":"file","file":"Codex/Research/Places/Images/Pasted image 20250330190007.png","x":480,"y":680,"width":400,"height":225}
+	],
+	"edges":[]
+}

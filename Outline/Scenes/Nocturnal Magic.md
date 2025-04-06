@@ -1,0 +1,1 @@
+*The woman guides Ionia to the safety of her shelter as magical night creatures emerge from the dark.*

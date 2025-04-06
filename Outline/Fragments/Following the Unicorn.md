@@ -1,0 +1,21 @@
+The stream bed stones were smooth beneath Ionia's feet as she followed the unicorn upstream. Her soaked boots made soft squishing sounds with each step, but she hardly noticed her discomfort anymore. There was too much to see.
+
+Dragonflies darted just above the water's surface, their wings shimmering like tiny rainbow prisms in the dappled sunlight. One landed briefly on a strand of her wet hair, and Ionia held perfectly still, watching its delicate wings pulse. She remembered drawing dragonflies in her book, but she'd never been close enough to see how their huge eyes sparkled with all the colors of a sunset.
+
+The unicorn paused ahead, still standing impossibly on the water's surface, and lowered its head to watch a family of water shrews playing along the bank. The tiny creatures seemed unafraid of the magical being, continuing their game of diving for small fish and racing through the crystalline shallows. Ionia noticed how their fur remained sleek and dry no matter how many times they plunged beneath the surface. She wondered if they too had some kind of magic.
+
+As they ventured further upstream, the embankments gradually grew less steep. Thick clusters of ferns unfurled their fronds over the water's edge, creating secret archways that Ionia and the unicorn passed beneath. Drops of water fell from the delicate green canopy, each one catching the light like a perfect glass bead before rejoining the stream.
+
+Where the unicorn's hooves touched the water's surface, ripples spread out in circular patterns that seemed to make the reflected sunlight dance. But Ionia noticed something else too—wherever these ripples reached the bank, tiny white flowers would spring up among the moss and ferns. They looked like stars that had fallen from the sky and taken root in the earth.
+
+A flash of brilliant blue caught her eye—a kingfisher diving into the stream just ahead of them. It emerged with a small silver fish wriggling in its beak and perched on an overhanging branch to enjoy its meal. The unicorn stopped again, and Ionia realized that each time it paused, it was inviting her to witness these small marvels of the forest.
+
+The water grew deeper in places, sometimes reaching up to her knees, but Ionia found she didn't mind. She discovered that if she stepped carefully and watched how the current moved around the stones, she could keep her balance easily. A school of small trout swam past her legs, their scales catching the light like copper pennies.
+
+In one quiet pool, she spotted a cluster of water lilies, their white petals edged with the faintest pink. As the unicorn passed, each flower turned to follow its movement, like tiny courtiers bowing to royalty. Ionia remembered her mother's stories about the flowers of the deep forest having their own ancient magic, and for the first time, she wondered if those tales might be more than just stories.
+
+The air was filled with the music of the forest—the stream's constant melody accompanied by birdsong, the rustle of leaves in the canopy above, and the occasional plop of a frog diving into the water. Even the sounds seemed different here, as if the forest itself was singing a song that had no beginning and no end.
+
+A movement on the bank caught her attention. A doe and her fawn had come to drink from the stream. Instead of fleeing at their approach, the deer raised their heads calmly, acknowledging the unicorn with gentle dips of their necks before returning to their drinking. The fawn's spots reminded Ionia of the stars she sometimes saw reflected in this very stream on clear nights when she and her father walked home late from the village.
+
+Her father. A pang of worry tried to surface in her chest, but somehow it couldn't quite take hold. Not here, not now, with the unicorn's peaceful presence ahead of her and all the wonders of the forest around her. For the first time since she could remember, Ionia felt not just unafraid in these woods, but as if she might belong here too, just like the water shrews and the kingfisher and the deer.

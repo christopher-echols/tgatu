@@ -1,0 +1,1 @@
+*After mustering up all her courage, Ionia quickly regrets her decision as the woods close in around her.*

@@ -1,0 +1,199 @@
+- Ionia collects eggs from beneath hens in the yard, humming the woodcutter's song to herself
+- The hair on her neck rises as she feels eyes watching her from the forest edge
+- She glimpses a fleeting streak of silver like mist between the trees, then it vanishes
+- Mother calls for Ionia to stop dawdling and bring the eggs for breakfast
+- [Watcher] Unseen eyes observe the little girl with curiosity and longing
+- Ionia brings the eggs into the house, still unsettled by the feeling of being watched
+- Distracted, she hands the eggs to her mother
+- Mother remarks with wonder that the eggs are always bigger when Ionia fetches them
+- At breakfast, Ionia mentions her recurring dream about a unicorn
+- Father smiles knowingly as Ionia describes how the unicorn seems to be watching over her
+- Mother mentions her trip to the village to sell her handcrafted wooden bowls at the market
+- Mother offers to let Ionia stay home alone, saying she's "old enough to take care of herself"
+- Ionia decides to join Father at the logging camp instead, partly hoping to see a real unicorn
+- She packs her her sketchbook filled with drawings of plants, animals, and the unicorn
+- She also packs Goodfriend Foxy
+- Mother and Ionia pack a lunch basket and she warns Ionia about magical forest creatures
+- Ionia and Father load the cart
+- She tells him she's going to draw any magical creatures they might see
+- Father chuckles gently at her imagination and affirms her belief in forest magic
+- Ionia feeds half her apple to Hoofbert the mule before they depart
+- Ionia, Father, and Hoofbert leave as the sun rises
+- They wave goodbye to Mother, who heads toward the village
+- During their journey, Father points out deer and rabbits, asking Ionia questions about them
+- The cart passes wooden totems with [[The Green Man]] carved on them
+- Ionia mentions how the carvings have always made her uneasy, like they're watching her
+- Father and Ionia sing their woodcutter's song together as they travel deeper into the forest
+- [Watcher] Hidden among branches, silent eyes follow the cart's progress down the path
+
+***
+
+- They arrive at the logging camp and hitch Hoofbert to an old post
+- Father takes Ionia to a weather-worn shrine to leave an offering
+- He speaks an oath of thanks to [[The Hawthorne Legacy - Guardians of the Boundary#Origins of the Covenant (circa 1380-1420)|The Covenant]] for the privilege of harvesting this timber 
+- Father reminds Ionia about their proximity to the Eldwood, and not to stray too far
+- Ionia recites a rhyme about flowing water and the boundary
+- He playfully pretends to be Wyrnox, the ancient guardian who enforces the forest's law
+- Ionia doesn't think his play-acting is funny, and tells him so
+- Father acknowledges her concern, but reminds her he knows these trees and feels safe here
+- The two return to the cart, unhook Hoofbert, and allow him to graze freely
+- Ionia secures the lunch basket as Father removes his tools
+- Father tells Ionia he's off to fell a particularly large oak at the Northwest corner of the camp
+- Ionia wants to stay close to him, so she follows as far as he'll let her safely go
+- She says that she feels safest when she can see him
+- He says that as long as she can hear the sound of his axe, she'll know he's right here
+- Father kisses her head and tells her to go find some magical creatures to sketch
+- Ionia watches him go, waiting until the steady rhythm of his axe gives her comfort to explore
+- Ionia opens her sketchbook, flipping past pages of unicorn drawings to find a blank page
+- She wanders a bit until she notices a flower she's never seen before
+- She sits down, cross-legged and instinctively draws a circle around herself in the dirt
+- She takes Goodfriend Foxy from her bag and props him up beside her
+- Ionia meticulously draws the fascinating flower, which has a strangely magical quality about it
+
+
+- A small creature emerges and begins collecting red berries, captivating Ionia
+- Ionia impulsively leaves her circle and moves behind a stump for a closer look
+- She realizes this must be one of the [[Pilferers]] her mother had long warned her about
+- Safely behind the stump, unseen by the creature, Ionia starts sketching the animal
+- A second pilferer arrives and they work together, stuffing berries into their marsupial pouches
+- Ionia keeps sketching, filling her page, captivated by this display of collaboration
+- As the pair pick the last of the berries, a third, larger pilferer approaches from behind
+- The larger pilferer springs on one of the first, pinning it to the ground
+- This intruder begins snatching berries from the victim's pouch, stuffing his own
+- The bystander begins chittering and hissing at the bully
+- Ionia, who has become fully engrossed in this drama stands up and shouts at the intruder
+- The three pilferers all spring to attention, turning to face the human and crouching low
+- Ionia marches straight toward the trio, scolding the larger one as she goes
+- She loudly proclaims that it's not right for him to steal from the others
+- As she speaks, the stolen berries spill from the thief's pouch as he looks down bewildered
+- All three pilferers look at each other, then glance in unison at something behind Ionia
+- She stops in her tracks as the creatures stand upright on their haunches and snigger
+- The creatures turn and run into the underbrush, leaving scattered berries in their wake
+- Confused, Ionia, turns around just in time to see four pilferers stealing the lunch basket
+- Realizing she's been had, she shouts at the lunch thieves and runs toward the cart
+- By the time she gets there, the nimble pilferers are disappearing into the underbrush
+- Ionia stammers, and clenches her fists, feeling her cheeks reddening
+- She shouts for her father
+- Hoofbert raises his head from the clover he's munching
+- Father is far enough away, chopping steadily, that her shouts don't reach him
+- Ionia starts to panic, thinking about Mother's warning and how she has now lost the basket
+- She thinks about running to Father for help, but that would take too long
+- Feeling foolish for having been tricked and failing to heed Mother's warnings, Ionia acts
+- She decides the thieves can't have gotten far, and she's much bigger and faster than they are
+- Knowing she has to move fast, she sets off at a sprint, leaving her sketchbook and Foxy
+
+
+
+
+
+- Ionia slips down a muddy embankment into a stream bed, becoming separated from familiar territory.
+- The pilferers peer down at Ionia from the embankment before vanishing into the forest shadows.
+- Soaked and mud-covered, Ionia notices the nearby shadows lengthening oddly toward her, as if reaching out.
+- [Watcher] Silver hooves step delicately through forest shadows that recoil from their light.
+- A silver light appears and the shadows retreat as a unicorn materializes standing in the stream.
+- The unicorn steps onto the water's surface and begins traveling upstream, indicating Ionia should follow.
+- Ionia follows the unicorn along the stream, seeing wonders of the forest she never imagined existed.
+- The unicorn guides Ionia back to the logging camp but disappears like morning mist when she tries to thank it.
+- Ionia finds the camp eerily silent with no sign of Father except his abandoned axe lying among the trees.
+- She runs to Hoofbert, still tethered where they left him, and finds comfort in stroking his familiar nose.
+- Ionia notices her father's bootprints leading toward the Eldwood boundary and realizes he went searching for her.
+- She faces a difficult choice – stay with Hoofbert as her father always taught her to do if lost, or follow his tracks.
+- After an anguished moment of indecision, Ionia unties Hoofbert and tells him to go home to Mother if she doesn't return quickly.
+- Following her father's bootprints, Ionia pushes deeper into increasingly ancient and watchful woods.
+- The trail begins to fade as if the forest itself is erasing it, leaving Ionia truly lost.
+- A woman's voice rings out: "Go no further," as Maren the woodswoman drops lightly from a nearby tree.
+- Maren explains that Ionia's father has crossed into the Eldwood and is slowly losing his memories.
+- Maren reveals that Wyrnox, an ancient spirit of the forest, created the transformation law after humans began destroying the trees.
+- As darkness falls on Ionia's first night in the magical forest, shadow creatures gather at the edges of her vision.
+- Maren explains these are Wyrnox's servants, enforcing his will and driving trespassers deeper into the forest.
+- Maren leads Ionia to her cottage that seems to grow from the forest itself.
+- [Watcher's View] Moonlight catches on tears as unseen eyes observe the child's fear and sorrow from the darkness.
+- Over dinner, Maren explains that time flows differently in the Eldwood – days here might be hours in the outside world.
+- A clatter from Maren's bedside table interrupts their conversation - something has knocked over a small jar.
+- They turn to see a pilferer frozen in surprise, clutching Maren's silver thimble in one paw and several pages from Ionia's sketchbook in the other.
+- The pilferer drops the papers and darts toward an open window but gets tangled in the curtain, chittering in distress.
+- Maren calmly frees the creature while Ionia gasps with joy at seeing pages from her precious sketchbook.
+- The pages include several of Ionia's unicorn drawings, which Maren studies with surprised recognition.
+- The pilferer crouches nervously, ears flattened, as Ionia slowly offers it berries from Maren's table.
+- After cautious sniffing, the creature accepts the berries while still clinging to the thimble, unwilling to give up its treasure.
+- Maren gently retrieves her thimble, and Ionia names the creature "Thimble" for his obvious fascination with it.
+- Thimble chittering grows excited when Ionia shows him the unicorn drawings, pointing repeatedly toward the forest.
+- Maren asks if there might be more pages, and Thimble nods vigorously, gesturing that he knows where to find them.
+- That night, Ionia catches Thimble arranging her recovered pages carefully on the floor, seeming to study her drawings.
+- The next morning, Thimble leads Ionia and Maren to a hollow tree where the pilferers have made a nest lined with the remaining pages from her sketchbook.
+- Ionia carefully recovers most of her book, though some pages are torn or stained with berry juice.
+- Maren shares the story of a princess who found love with a commoner, absently touching the gold ring on her chain.
+- Ionia learns the commoner sacrificed himself by entering the Eldwood to protect the princess from hunters.
+- [Watcher's View] Silver light reflects off the ring as memories of centuries past drift through ancient eyes.
+- On the third morning, unable to bear the thought of her father forgetting her, Ionia slips out while Maren sleeps.
+- Thimble follows Ionia, chittering nervously but unwilling to let her enter the Eldwood alone.
+- Crossing the boundary into the Eldwood, Ionia immediately feels a strange fog entering her mind.
+- Thimble tugs at her dress, seemingly unaffected by the fog and gesturing frantically toward specific directions.
+- Shadow creatures begin to move around them, herding them deeper into the Eldwood like wolves driving prey.
+- Ionia encounters a deep ravine where shadow vines have destroyed the only bridge, her first major challenge.
+- Using her father's lessons and following Thimble's excited pointing, Ionia finds a fallen tree to cross the ravine.
+- As the third night falls, Ionia and Thimble must survive alone in the magical darkness with shadows at their strongest.
+- Thimble gathers branches and moss, showing Ionia how to build a shelter where they huddle together in shared fear.
+- Morning light reveals that the forest has changed around them during the night, familiar landmarks now gone.
+- [Watcher's View] Hoofprints in dew vanish behind the travelers, erasing the path of one who watches from afar.
+- Ionia discovers that trees in the Eldwood constantly shift positions, her second major challenge.
+- She uses her drawing skills to map patterns while Thimble scampers up trunks to spy the path ahead.
+- Thimble gets distracted by something shiny and temporarily disappears, causing Ionia momentary panic.
+- That evening, Ionia and a returned Thimble encounter friendly nocturnal creatures who offer unexpected shelter.
+- On the fifth day, Thimble falls into a shadow trap - gossamer black vines wrapping around the small creature.
+- Ionia must choose between continuing her urgent search for Father or risking herself to save her new friend.
+- She bravely uses her small knife to cut through the shadow vines despite their chilling touch against her skin.
+- Freeing Thimble shows Ionia's growth in compassion and courage, earning them guidance to the Elder's Grove.
+- Shadow creatures surround them and take forms from Ionia's deepest fears, testing her resolve.
+- [Watcher's View] Silver tears fall as unseen eyes witness the child's courage in the face of overwhelming fear.
+- The unicorn appears again, its horn glowing like captured starlight, creating a protective bubble around them.
+- Following the unicorn through the shifting landscape, Ionia notices her mind clears momentarily where it steps.
+- Thimble stares at the unicorn with unusual reverence, his posture showing recognition without understanding why.
+- The unicorn leads them into a grove of ancient trees where the consciousness of the Woodland Elder dwells.
+- The Elder speaks to Ionia through many harmonizing voices, examining her heart and determination.
+- Thimble hides behind Ionia's legs, overwhelmed by the Elder's presence but refusing to abandon her.
+- The Elder reveals Ionia's father's memories are already beginning to fade but acknowledges her love-driven journey.
+- The Elder explains that Ionia must continue alone to Wyrnox's domain to find her father.
+- On the sixth day, Ionia and Thimble follow the Elder's guidance deeper into the forest where shadows grow thicker.
+- Wyrnox manifests as a colossal tree, growing out of the earth and spreading enormous branches that blot out the sky.
+- Thimble trembles beside Ionia but stands his ground, pressing against her ankle in silent solidarity as Wyrnox towers over them.
+- Wyrnox slams branches into the ground around them while recounting humanity's crimes against the forest.
+- Ionia finds her father standing nearby, staring at her with no recognition in his eyes.
+- Wyrnox insists his law is absolute and Ionia's father must forget his human life as punishment for trespassing.
+- Ionia makes desperate attempts to reach her father, showing him her drawings and singing their woodcutter's song.
+- Remembering Maren's story, Ionia offers herself: "If someone must be changed by the forest, let it be me instead."
+- As Wyrnox prepares to enact his judgment, the unicorn leaps between them and transforms into Maren.
+- Thimble chittering stops abruptly, his eyes widening as he suddenly understands his connection to both forms.
+- Maren stands beside Ionia, demonstrating how transformation born of love differs from transformation as punishment.
+- Wyrnox hesitates at the sight of Maren, the only human who has lived with his magic for centuries.
+- [Watcher's View] For the first time, we see through Maren's eyes directly as she stands exposed in both her forms.
+- Forest creatures who witnessed Ionia's journey gather around, including nocturnal beings who sheltered her.
+- Maren shares how she willingly accepted transformation to enter the Eldwood and save the man she loved.
+- She reveals how she has watched Ionia grow from afar, longing for connection to the human world again.
+- Wyrnox, witnessing love transforming the forest's magic again, allows them to leave if Ionia can restore her father's memory.
+- Ionia shows her father her drawings of their home and teaches him the woodcutter's song.
+- Thimble scurries to Father's pockets, retrieving small objects that might trigger memories and placing them in his palm.
+- Father begins to remember snippets of his life, first recognizing the song, then slowly remembering Ionia.
+- Father speaks Ionia's name for the first time, the memories of their bond stronger than Wyrnox's magic.
+- Wyrnox, moved by this display of love's power, grants them permission to return to the human world.
+- Maren guides Ionia, her father, and Thimble back toward the boundary of the Eldwood.
+- Father's memories continue returning through Ionia's persistent storytelling during their journey home.
+- Shadow creatures watch but don't interfere, honoring Wyrnox's decision to let them leave the forest.
+- As they reach the boundary, Maren explains she cannot cross into the human world except in unicorn form.
+- Maren transforms into the unicorn, showing Ionia that transformation can be beautiful rather than frightening.
+- Before they part, Maren gives Ionia a small seed from the heart of the Eldwood, a token of the forest's trust.
+- Thimble looks back and forth between his forest home and Ionia, clearly torn about which path to choose.
+- After chittering to himself and touching his nose to the unicorn's hoof, Thimble scampers to Ionia's shoulder, choosing her.
+- Ionia, Father, and Thimble cross the boundary and journey toward home, surprised to see the sun hasn't moved much.
+- They emerge from the forest to find Mother leading a small group of villagers searching for them.
+- Mother explains that Hoofbert returned home alone yesterday with Father's axe tied to the saddle, and she knew something was wrong.
+- The villagers keep their distance, noticing something different about them and pointing at Thimble with suspicion.
+- Mother reveals she had trouble recruiting help because most villagers are too afraid of the haunted forest.
+- Ionia and Father realize what felt like nearly a week in the Eldwood was less than two days in the outside world.
+- Father's memories are nearly complete, though he carries a new respect and deeper understanding of the forest.
+- Thimble dives into Ionia's bag when meeting Mother, only his bright eyes visible as he peers out cautiously.
+- At home, Mother is startled but eventually charmed by Thimble despite finding her sewing needles arranged in patterns each morning.
+- Ionia plants the seed from the Eldwood near their cottage, a symbol of the bridge she now forms between worlds.
+- A silver streak occasionally appears at the forest's edge, watching over the family from a distance.
+- The story ends with Ionia using her drawings to share what she's learned about the forest's magic with village children.
+- In the final scene, Ionia visits the forest's edge with Thimble, where the unicorn waits to greet them both as a friend.

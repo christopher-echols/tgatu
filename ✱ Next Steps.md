@@ -1,0 +1,13 @@
+- [ ] Start bullet point outline
+	- **Act Two Structure**: More specific challenges/obstacles Ionia faces after meeting Maren, how her magic develops through these trials, and the sequence of events leading to her entering the Eldwood.
+	- **Middle-Point Revelation**: A clear turning point or revelation halfway through the story that changes Ionia's understanding of her quest.
+	- **Incremental Magic Development**: Specific scenes showing how Ionia's magical abilities manifest and grow throughout the journey.
+	- **Supreme Ordeal Details**: The specific mechanics of how Ionia confronts Wyrnox and how her transformation abilities and drawings might work together to save her father.
+	- **Resolution Mechanics**: How Ionia and her father return from the Eldwood, what changes in them, and how their relationship to the forest is different afterward.
+- [ ] Map Ionia's world
+- [x] Name Ionia's world
+- [x] Document magic system
+- [x] Refine Ionia's character sheet (really push it)
+- [x] Break down *The Book of Three* to analyze Lloyd Alexander's methodology
+- [x] Revise outline in modified Hero's Journey
+- [x] Write a character sheet for Ionia

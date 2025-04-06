@@ -1,0 +1,1 @@
+*Alone and frightened, Ionia convinces herself her father can't be far and sets off to find him.*

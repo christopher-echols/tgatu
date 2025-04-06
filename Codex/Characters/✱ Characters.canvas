@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"8faef903fad338b4","type":"file","file":"Codex/Characters/Ionia.md","x":-485,"y":-126,"width":245,"height":566},
+		{"id":"cbd88e6a4181a8cf","type":"file","file":"Codex/Characters/Unicorn.md","x":-220,"y":-126,"width":260,"height":566},
+		{"id":"afafc7e5203fffd3","x":60,"y":-126,"width":260,"height":566,"type":"file","file":"Codex/Characters/Father.md"}
+	],
+	"edges":[]
+}
