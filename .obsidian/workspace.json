@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/Characters/Ionia - Field Guide.md",
+                "file": "Outline/Outline - v4.0.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ionia - Field Guide"
+              "title": "Outline - v4.0.0"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codex/Characters/Ionia - Field Guide.md",
+                "file": "Outline/Outline - v4.0.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ionia - Field Guide"
+              "title": "Backlinks for Outline - v4.0.0"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codex/Characters/Ionia - Field Guide.md",
+                "file": "Outline/Outline - v4.0.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ionia - Field Guide"
+              "title": "Outgoing links from Outline - v4.0.0"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/Characters/Ionia - Field Guide.md",
+                "file": "Outline/Outline - v4.0.0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ionia - Field Guide"
+              "title": "Outline of Outline - v4.0.0"
             }
           }
         ]
@@ -168,12 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6418a3c4dc1f552",
+  "active": "c65a308fb0d3935b",
   "lastOpenFiles": [
+    "Draft/✱ Draft - v1.5.5.md",
+    "Outline/Outline - v4.0.0.md",
+    "Outline/Fragments/Openings.md",
+    "Outline/Scenes/02. Loading the Cart.md",
+    "Outline/Scenes/01. Alt - Breakfast.md",
+    "Outline/Scenes/01. Breakfast.md",
+    "Outline/Fragments/The Memory Covenant - Climax Sequence Development.md",
+    "Outline/Fragments/The Chase and the Unicorn.md",
+    "Codex/Characters/Ionia - Field Guide.md",
     "Codex/Characters/Ionia - Character Map.md",
     "Codex/Characters/Ionia - Character Reference.md",
     "Outline/✱ Outline - Unified.md",
-    "Outline/Fragments/Openings.md",
     "Codex/Research/Myths and Superstitions/Fairy Paths and Fairy Rings.md",
     "Codex/Research/Myths and Superstitions/Green Man and Other Superstitions.canvas",
     "Codex/Research/Places/Forests of Wales and Scotland.canvas",
