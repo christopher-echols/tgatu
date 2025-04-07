@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outline/Outline - v4.0.0.md",
+                "file": "Story Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline - v4.0.0"
+              "title": "Story Notes"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outline/Outline - v4.0.0.md",
+                "file": "Story Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Outline - v4.0.0"
+              "title": "Backlinks for Story Notes"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Outline/Outline - v4.0.0.md",
+                "file": "Story Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Outline - v4.0.0"
+              "title": "Outgoing links from Story Notes"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outline/Outline - v4.0.0.md",
+                "file": "Story Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Outline - v4.0.0"
+              "title": "Outline of Story Notes"
             }
           }
         ]
@@ -170,12 +170,18 @@
   },
   "active": "c65a308fb0d3935b",
   "lastOpenFiles": [
-    "Draft/✱ Draft - v1.5.5.md",
-    "Outline/Outline - v4.0.0.md",
-    "Outline/Fragments/Openings.md",
+    "✱ Next Steps.md",
+    "Outline/Fragments/Chapter One - Possible Openings.md",
+    "Outline/Scenes/04. The Logging Camp.md",
+    "Outline/Scenes/05. Flora and Fauna.md",
+    "Outline/Scenes/06. Pilfered.md",
+    "Outline/Scenes/03. Into the Woods.md",
+    "Codex/Characters/Father.md",
     "Outline/Scenes/02. Loading the Cart.md",
-    "Outline/Scenes/01. Alt - Breakfast.md",
     "Outline/Scenes/01. Breakfast.md",
+    "Outline/Outline - v4.0.0.md",
+    "Draft/✱ Draft - v1.5.5.md",
+    "Outline/Scenes/01. Alt - Breakfast.md",
     "Outline/Fragments/The Memory Covenant - Climax Sequence Development.md",
     "Outline/Fragments/The Chase and the Unicorn.md",
     "Codex/Characters/Ionia - Field Guide.md",
@@ -185,7 +191,6 @@
     "Codex/Research/Myths and Superstitions/Fairy Paths and Fairy Rings.md",
     "Codex/Research/Myths and Superstitions/Green Man and Other Superstitions.canvas",
     "Codex/Research/Places/Forests of Wales and Scotland.canvas",
-    "✱ Next Steps.md",
     "Story Notes.md",
     "Codex/Research/Visual Inspiration.md",
     "Codex/Research/Myths and Superstitions/Images/Pasted image 20250330190959.png",
